@@ -1,6 +1,7 @@
 # Activity Tracker
 
 A simple cli tool for checking a user's github acitivity
+https://roadmap.sh/projects/github-user-activity
 
 ## Run Locally
 
